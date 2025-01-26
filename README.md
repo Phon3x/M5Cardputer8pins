@@ -55,7 +55,7 @@ The M5Stack Cardputer pins extender, gives to opportunity to use 8 extended pins
 Below is the detailed pin connection diagram for the M5Stack Cardputer Lego 8 pins extender:
 
 <div align="center">
-  <img src="https://github.com/Phon3x/M5Cardputer8pins/blob/main/assets/images/dev_1.png?raw=truediagram_8_Pins.png" alt="Pin Connection Diagram" />
+  <img src="https://github.com/Phon3x/M5Cardputer8pins/blob/main/assets/images/diagram_8_Pins.png?raw=true" alt="Pin Connection Diagram" />
   <p><em>Detailed pin connection scheme showing GPIO, power, and communication lines</em></p>
 </div>
 
