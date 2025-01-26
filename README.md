@@ -105,8 +105,7 @@ Below is the detailed pin connection diagram for the M5Stack Cardputer Lego 8 pi
 
 | Name | Download URL |
 |-----------|--------|
-| Lego 8 pins extender **BODY** | [download **.stl**](https://github.com/) |
-| Lego Bolt pin | [download **.stl**](https://github.com/) |
+| **Lego 8 pins extender** | [download **.stl**](https://www.printables.com/model/1166091-m5stack-cardputer-lego-8-pins-extender/files) |
 
 ## 🤝 Contributing
 
